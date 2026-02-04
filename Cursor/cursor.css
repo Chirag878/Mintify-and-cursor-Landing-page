@@ -54,7 +54,7 @@ nav{
     padding-right:13px;
     padding-bottom:8px;
     padding-left: 13px;
-    border: 1px solid gray;   
+    border: 1px solid #3f3d38;   
 }
 
 .btnparent{
@@ -135,4 +135,67 @@ nav{
 }
 .car{
     padding-bottom: 60px;
+}
+.para{
+    margin-left: 195px;
+    font-size: 26px;
+    margin-bottom:30px;
+}
+.card{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.flashcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.section6{
+    margin-top: 200px;
+}
+.mainl{
+    margin-left: 120px;
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+.link1{
+    margin-top: 25px;
+    margin-left: 120px;
+    color: #a63a00;
+}
+.deco{
+    color: #a63a00;
+    text-decoration: none;
+}
+#foot{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    gap: 200px;
+    margin-left: 130px;
+
+}
+.footer{
+    padding-bottom: 5px;
+}
+.lastmain{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-left :130px;
+    gap: 30px;
+    
+}
+.cursor{
+    font-size: 36px;
+
 }

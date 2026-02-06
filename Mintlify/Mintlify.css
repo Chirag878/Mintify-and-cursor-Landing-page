@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(mintlifybg.svg);
+    background-size: cover;
+    font-family: arial;
+}
+#header{
+   
+}
+nav{
+     display: flex;
+    flex-direction: row;
+    justify-content:left;
+    align-items: center;
+    gap: 130px;
+    margin-top: 20px;
+    margin-left: 485px;
+}
+.nava{
+    text-decoration: none;
+}
+.spanhead{
+    margin-left: 70px;
+}
+.nava{
+    padding-left: 30px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.navcta{
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: 500;
+}
